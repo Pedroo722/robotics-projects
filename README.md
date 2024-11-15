@@ -10,10 +10,8 @@ Este repositório contém uma pequena coleção de projetos que foram desenvolvi
 
 <div align="center">
 
-
 ![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-%23C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Pictoblox](https://img.shields.io/badge/Pictoblox-%234288B4?style=for-the-badge&logoColor=white)
 ![Fritzing](https://img.shields.io/badge/Fritzing-%23D00000?style=for-the-badge&logoColor=white)
 
